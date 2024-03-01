@@ -1,0 +1,25 @@
+body {
+	background-color: #F3A70E;
+	
+}
+
+
+
+.enunciado {
+	background-color: #5025C2;
+
+}
+
+
+.celda {
+	background-color: #CEFF33;
+}
+
+.imagen {
+	background-color: #F42222;
+}
+
+
+#tablaProveedor, #tablaCliente {
+    display: none;
+}
